@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting to know Google Cloud
 - 🌱 I’m currently learning Google Cloud capabilities...
  💞️ I’m looking to collaborate on everything GC
-- 📫 How to reach me Slack, email.
+- 📫 How to reach me Slack, email and other NC tools.
 
 <!---
 Testowy-Luzer/Testowy-Luzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
